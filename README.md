@@ -1,4 +1,4 @@
-# Exploratory data analysis on ClassicModel Car Database
+# Exploratory Data Analysis on Car Database
 ### Purpose of this project
 1. To get hands on experience on sql and its capabilities
 2. The project's goal is to explore the database and answer a series of questions using SQL.
